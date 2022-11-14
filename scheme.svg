@@ -1,0 +1,740 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="210mm"
+   height="297mm"
+   viewBox="0 0 210 297"
+   version="1.1"
+   id="svg5"
+   sodipodi:docname="scheme.svg"
+   inkscape:version="1.2.1 (9c6d41e410, 2022-07-14, custom)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:zoom="2.4227719"
+     inkscape:cx="322.56441"
+     inkscape:cy="211.32819"
+     inkscape:window-width="1918"
+     inkscape:window-height="1058"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs2">
+    <rect
+       x="182.92928"
+       y="61.246036"
+       width="214.79362"
+       height="112.05155"
+       id="rect5849" />
+    <marker
+       style="overflow:visible"
+       id="marker14566"
+       refX="0"
+       refY="0"
+       orient="auto-start-reverse"
+       inkscape:stockid="TriangleStart"
+       markerWidth="5.3244081"
+       markerHeight="6.155385"
+       viewBox="0 0 5.3244081 6.1553851"
+       inkscape:isstock="true"
+       inkscape:collect="always"
+       preserveAspectRatio="xMidYMid">
+      <path
+         transform="scale(0.5)"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
+         d="M 5.77,0 -2.88,5 V -5 Z"
+         id="path14564" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="TriangleStart"
+       refX="0"
+       refY="0"
+       orient="auto-start-reverse"
+       inkscape:stockid="TriangleStart"
+       markerWidth="5.3244081"
+       markerHeight="6.155385"
+       viewBox="0 0 5.3244081 6.1553851"
+       inkscape:isstock="true"
+       inkscape:collect="always"
+       preserveAspectRatio="xMidYMid">
+      <path
+         transform="scale(0.5)"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
+         d="M 5.77,0 -2.88,5 V -5 Z"
+         id="path135" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="marker12272"
+       refX="0"
+       refY="0"
+       orient="auto-start-reverse"
+       inkscape:stockid="Arrow5"
+       markerWidth="3.5999999"
+       markerHeight="4.0415134"
+       viewBox="0 0 5.8874262 6.6094758"
+       inkscape:isstock="true"
+       inkscape:collect="always"
+       preserveAspectRatio="xMidYMid">
+      <path
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:0.5pt"
+         d="m 3,0 c -1.5,0.5 -3.5,1.5 -4.5,2.5 0,0 0,-2 1,-2.5 -1,-0.5 -1,-2.5 -1,-2.5 1,1 3,2 4.5,2.5 z"
+         id="path12270" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="Arrow5"
+       refX="0"
+       refY="0"
+       orient="auto-start-reverse"
+       inkscape:stockid="Arrow5"
+       markerWidth="5.8874259"
+       markerHeight="6.6094756"
+       viewBox="0 0 5.8874262 6.6094758"
+       inkscape:isstock="true"
+       inkscape:collect="always"
+       preserveAspectRatio="xMidYMid">
+      <path
+         transform="scale(0.5)"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
+         d="m 6,0 c -3,1 -7,3 -9,5 0,0 0,-4 2,-5 -2,-1 -2,-5 -2,-5 2,2 6,4 9,5 z"
+         id="path8893" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="Arrow2"
+       refX="0"
+       refY="0"
+       orient="auto-start-reverse"
+       inkscape:stockid="Arrow2"
+       markerWidth="7.6999998"
+       markerHeight="5.5999999"
+       viewBox="0 0 7.7 5.6"
+       inkscape:isstock="true"
+       inkscape:collect="always"
+       preserveAspectRatio="xMidYMid">
+      <path
+         transform="scale(0.7)"
+         d="M -2,-4 9,0 -2,4 c 2,-2.33 2,-5.66 0,-8 z"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:none"
+         id="arrow2L" />
+    </marker>
+  </defs>
+  <g
+     inkscape:label="Слой 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <rect
+       style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.122762;stroke-opacity:1"
+       id="rect111"
+       width="12.406186"
+       height="9.0319853"
+       x="39.480019"
+       y="76.426094" />
+    <text
+       xml:space="preserve"
+       style="font-size:1.22384px;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.101987;stroke-opacity:1"
+       x="39.581253"
+       y="82.127548"
+       id="text1001"
+       transform="scale(1.085003,0.92165644)"><tspan
+         sodipodi:role="line"
+         id="tspan999"
+         style="stroke-width:0.101987"
+         x="39.581253"
+         y="82.127548">main.py</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:1.22384px;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.101987;stroke-opacity:1"
+       x="55.854103"
+       y="66.558296"
+       id="text1167"
+       transform="scale(1.085003,0.92165644)"><tspan
+         sodipodi:role="line"
+         id="tspan1165"
+         style="stroke-width:0.101987"
+         x="55.854103"
+         y="66.558296">auth.py</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:3.175px;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.264583;stroke-opacity:1"
+       x="65.071259"
+       y="49.980267"
+       id="text1171"><tspan
+         sodipodi:role="line"
+         id="tspan1169"
+         style="stroke-width:0.264583" /></text>
+    <rect
+       style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.122762;stroke-opacity:1"
+       id="rect1173"
+       width="12.406186"
+       height="9.0319853"
+       x="57.093784"
+       y="61.929638" />
+    <rect
+       style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.122762;stroke-opacity:1"
+       id="rect1175"
+       width="12.406186"
+       height="9.0319853"
+       x="71.924492"
+       y="75.849548" />
+    <text
+       xml:space="preserve"
+       style="font-size:1.14583px;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.0954855;stroke-opacity:1"
+       x="89.536362"
+       y="60.806725"
+       id="text1179"
+       transform="scale(0.80687288,1.2393526)"><tspan
+         sodipodi:role="line"
+         id="tspan1177"
+         style="stroke-width:0.0954855"
+         x="89.536362"
+         y="60.806725">message_handler.py</tspan></text>
+    <rect
+       style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.122762;stroke-opacity:1"
+       id="rect1189"
+       width="12.406186"
+       height="9.0319853"
+       x="78.603577"
+       y="33.268394" />
+    <text
+       xml:space="preserve"
+       style="font-size:1.14583px;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.0954855;stroke-opacity:1"
+       x="97.313622"
+       y="26.582037"
+       id="text1193"
+       transform="scale(0.80687288,1.2393526)"><tspan
+         sodipodi:role="line"
+         id="tspan1191"
+         style="stroke-width:0.0954855"
+         x="97.313622"
+         y="26.582037">database.py</tspan></text>
+    <rect
+       style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.122762;stroke-opacity:1"
+       id="rect1195"
+       width="12.406186"
+       height="9.0319853"
+       x="58.698467"
+       y="17.743917" />
+    <text
+       xml:space="preserve"
+       style="font-size:1.14583px;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.0954855;stroke-opacity:1"
+       x="76.850868"
+       y="13.966517"
+       id="text1199"
+       transform="scale(0.80687288,1.2393526)"><tspan
+         sodipodi:role="line"
+         id="tspan1197"
+         style="stroke-width:0.0954855"
+         x="76.850868"
+         y="13.966517">createbd.sql</tspan></text>
+    <rect
+       style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.122762;stroke-opacity:1"
+       id="rect1201"
+       width="12.406186"
+       height="9.0319853"
+       x="78.418549"
+       y="18.010584" />
+    <text
+       xml:space="preserve"
+       style="font-size:1.14583px;white-space:pre;inline-size:0;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.0954855;stroke-opacity:1"
+       x="103.75396"
+       y="14.212941"
+       id="text1205"
+       transform="scale(0.80687288,1.2393526)"><tspan
+         id="tspan1203"
+         style="stroke-width:0.0954855"
+         x="103.75396"
+         y="14.212941">db.db</tspan></text>
+    <rect
+       style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.122762;stroke-opacity:1"
+       id="rect3391"
+       width="12.406186"
+       height="9.0319853"
+       x="114.38526"
+       y="82.775986" />
+    <text
+       xml:space="preserve"
+       style="font-size:1.14583px;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.0954855;stroke-opacity:1"
+       x="144.87407"
+       y="66.349121"
+       id="text3395"
+       transform="scale(0.80687288,1.2393526)"><tspan
+         sodipodi:role="line"
+         id="tspan3393"
+         style="stroke-width:0.0954855"
+         x="144.87407"
+         y="66.349121">message_sender.py</tspan></text>
+    <rect
+       style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.122762;stroke-opacity:1"
+       id="rect4853"
+       width="12.406186"
+       height="9.0319853"
+       x="92.757957"
+       y="82.906616" />
+    <text
+       xml:space="preserve"
+       style="font-size:1.14583px;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.0954855;stroke-opacity:1"
+       x="116.94063"
+       y="66.470322"
+       id="text4857"
+       transform="scale(0.80687288,1.2393526)"><tspan
+         sodipodi:role="line"
+         id="tspan4855"
+         style="stroke-width:0.0954855"
+         x="116.94063"
+         y="66.470322">message_queue.py</tspan></text>
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.190943px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-start:url(#TriangleStart)"
+       d="M 50.021172,76.007204 57.167433,70.93944"
+       id="path4904"
+       inkscape:connector-type="polyline"
+       inkscape:connector-curvature="0" />
+    <path
+       style="display:inline;fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.257031px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#marker12272)"
+       d="m 51.880921,76.428887 7.293284,-5.14022"
+       id="path4906"
+       inkscape:connector-type="polyline"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.26162px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#Arrow5)"
+       d="M 51.908072,80.840921 71.001966,80.475547"
+       id="path4908"
+       inkscape:connector-type="polyline"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.253791;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker12272)"
+       d="M 79.3583,75.85163 83.390357,61.048286"
+       id="path7102"
+       inkscape:connector-type="polyline"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.204108px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-start:url(#TriangleStart)"
+       d="m 80.984715,75.211465 4.530127,-14.73999"
+       id="path7104"
+       inkscape:connector-type="polyline"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.23002px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-start:url(#Arrow2)"
+       d="m 70.792559,62.855689 7.825157,-3.928253"
+       id="path7834"
+       inkscape:connector-type="polyline"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.185059px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-start:url(#Arrow2)"
+       d="m 77.585489,57.75712 -8.087946,4.200843"
+       id="path12266"
+       inkscape:connector-type="polyline"
+       inkscape:connector-curvature="0" />
+    <path
+       style="opacity:1;fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.252899px;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker12272)"
+       d="m 84.464835,82.471199 7.658593,2.869857"
+       id="path12576"
+       inkscape:connector-type="polyline"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.259022px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#marker12272)"
+       d="m 105.19845,87.387934 8.5105,-0.05784"
+       id="path14286"
+       inkscape:connector-type="polyline"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.209529px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#TriangleStart)"
+       d="m 114.45982,90.366352 -8.52206,-1.29807"
+       id="path14342"
+       inkscape:connector-type="polyline"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.259727px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#marker12272)"
+       d="m 71.131488,22.338647 6.685456,0.104265"
+       id="path14506"
+       inkscape:connector-type="polyline"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.256298px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#marker14566)"
+       d="m 84.139937,33.203342 -0.08231,-5.358526"
+       id="path14562"
+       inkscape:connector-type="polyline"
+       inkscape:connector-curvature="0" />
+    <text
+       xml:space="preserve"
+       style="font-size:3.175px;opacity:1;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.264999;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"
+       x="59.812637"
+       y="37.293259"
+       id="text16474"><tspan
+         sodipodi:role="line"
+         id="tspan16472"
+         style="stroke-width:0.265"
+         x="59.812637"
+         y="37.293259" /></text>
+    <text
+       xml:space="preserve"
+       style="font-size:1.04345px;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.0869536;stroke-opacity:1"
+       x="110.87476"
+       y="11.351192"
+       id="text16478"
+       transform="scale(0.53495727,1.8693082)"><tspan
+         sodipodi:role="line"
+         id="tspan16476"
+         style="stroke-width:0.0869536"
+         x="110.87476"
+         y="11.351192">создает базу данных </tspan><tspan
+         sodipodi:role="line"
+         style="stroke-width:0.0869536"
+         x="110.87476"
+         y="12.655505"
+         id="tspan16480">по указанным в этом файле правилам</tspan></text>
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.256298px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#marker14566)"
+       d="m 86.727503,27.006229 -0.0571,5.358854"
+       id="path16484"
+       inkscape:connector-type="polyline"
+       inkscape:connector-curvature="0" />
+    <text
+       xml:space="preserve"
+       style="font-size:3.175px;opacity:1;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.264999;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"
+       x="79.458221"
+       y="37.267597"
+       id="text17282"><tspan
+         sodipodi:role="line"
+         id="tspan17280"
+         style="stroke-width:0.265"
+         x="79.458221"
+         y="37.267597" /></text>
+    <text
+       xml:space="preserve"
+       style="font-size:0.596458px;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.0497046;stroke-opacity:1"
+       x="108.88916"
+       y="15.286264"
+       id="text17286"
+       transform="scale(0.72364927,1.3818849)"><tspan
+         sodipodi:role="line"
+         style="stroke-width:0.0497046"
+         x="108.88916"
+         y="15.286264"
+         id="tspan17288">таблицы users admins, question</tspan><tspan
+         sodipodi:role="line"
+         style="stroke-width:0.0497046"
+         x="108.88916"
+         y="16.031837"
+         id="tspan17290">пользователи, администраторы, вопросы</tspan><tspan
+         sodipodi:role="line"
+         style="stroke-width:0.0497046"
+         x="108.88916"
+         y="16.777409"
+         id="tspan17292">вопросы второстепенные ключи с id пользователей</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:0.5388px;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.0448998;stroke-opacity:1"
+       x="107.95618"
+       y="26.203657"
+       id="text17302"
+       transform="scale(0.72956936,1.3706716)"><tspan
+         sodipodi:role="line"
+         style="stroke-width:0.0448998"
+         x="107.95618"
+         y="26.203657"
+         id="tspan17300">Общается с бд на языке запросов sqlite3</tspan><tspan
+         sodipodi:role="line"
+         style="stroke-width:0.0448998"
+         x="107.95618"
+         y="26.877157"
+         id="tspan17309">Имеет множество методов по получению, </tspan><tspan
+         sodipodi:role="line"
+         style="stroke-width:0.0448998"
+         x="107.95618"
+         y="27.550657"
+         id="tspan17313">изменению, удалению данных из бд,</tspan><tspan
+         sodipodi:role="line"
+         style="stroke-width:0.0448998"
+         x="107.95618"
+         y="28.224157"
+         id="tspan17311">не сложные действия, </tspan><tspan
+         sodipodi:role="line"
+         style="stroke-width:0.0448998"
+         x="107.95618"
+         y="28.897657"
+         id="tspan17315">нет проверки принятых данных, один метод, один запрос</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:0.679481px;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.0566236;stroke-opacity:1"
+       x="53.462959"
+       y="58.163445"
+       id="text17323"
+       transform="scale(0.74585838,1.3407371)"><tspan
+         sodipodi:role="line"
+         id="tspan17321"
+         style="stroke-width:0.0566236"
+         x="53.462959"
+         y="58.163445">создает telebot</tspan><tspan
+         sodipodi:role="line"
+         style="stroke-width:0.0566236"
+         x="53.462959"
+         y="59.012794"
+         id="tspan17325">принимает сообщения пользователя</tspan><tspan
+         sodipodi:role="line"
+         style="stroke-width:0.0566236"
+         x="53.462959"
+         y="59.862148"
+         id="tspan17327">Передает username пользователя в auth.py</tspan><tspan
+         sodipodi:role="line"
+         style="stroke-width:0.0566236"
+         x="53.462959"
+         y="60.711498"
+         id="tspan17329">В зависимости от результата </tspan><tspan
+         sodipodi:role="line"
+         style="stroke-width:0.0566236"
+         x="53.462959"
+         y="61.560848"
+         id="tspan17331">вызывает msg_handler.метод </tspan><tspan
+         sodipodi:role="line"
+         style="stroke-width:0.0566236"
+         x="53.462959"
+         y="62.410202"
+         id="tspan17333">передавая ему полученные </tspan><tspan
+         sodipodi:role="line"
+         style="stroke-width:0.0566236"
+         x="53.462959"
+         y="63.259552"
+         id="tspan17335">от пользователя данные</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:3.175px;opacity:1;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.264999;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"
+       x="93.76828"
+       y="66.379402"
+       id="text17339"><tspan
+         sodipodi:role="line"
+         id="tspan17337"
+         style="stroke-width:0.265"
+         x="93.76828"
+         y="66.379402" /></text>
+    <text
+       xml:space="preserve"
+       style="font-size:0.590731px;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.0492277;stroke-opacity:1"
+       x="84.983597"
+       y="42.678101"
+       id="text19829"
+       transform="scale(0.67462156,1.4823125)"><tspan
+         sodipodi:role="line"
+         id="tspan19827"
+         style="stroke-width:0.0492277"
+         x="84.983597"
+         y="42.678101">Запрашивает у бд данные </tspan><tspan
+         sodipodi:role="line"
+         style="stroke-width:0.0492277"
+         x="84.983597"
+         y="43.416512"
+         id="tspan19833">по всем пользователям </tspan><tspan
+         sodipodi:role="line"
+         style="stroke-width:0.0492277"
+         x="84.983597"
+         y="44.154926"
+         id="tspan19835">и администраторам</tspan><tspan
+         sodipodi:role="line"
+         style="stroke-width:0.0492277"
+         x="84.983597"
+         y="44.893341"
+         id="tspan19837">Имеет метод аутентификации</tspan><tspan
+         sodipodi:role="line"
+         style="stroke-width:0.0492277"
+         x="84.983597"
+         y="45.631756"
+         id="tspan20627">который проверяет содержит ли список пользователей</tspan><tspan
+         sodipodi:role="line"
+         style="stroke-width:0.0492277"
+         x="84.983597"
+         y="46.370167"
+         id="tspan20629">администраторов полученное имя, вовзращает </tspan><tspan
+         sodipodi:role="line"
+         style="stroke-width:0.0492277"
+         x="84.983597"
+         y="47.108578"
+         id="tspan20631">'user', 'admin', 'no'</tspan><tspan
+         sodipodi:role="line"
+         style="stroke-width:0.0492277"
+         x="84.983597"
+         y="47.846992"
+         id="tspan19831" /></text>
+    <text
+       xml:space="preserve"
+       style="font-size:0.669721px;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.0558099;stroke-opacity:1"
+       x="198.69481"
+       y="49.262947"
+       id="text20736"
+       transform="scale(0.57682306,1.7336339)"><tspan
+         sodipodi:role="line"
+         id="tspan20734"
+         style="stroke-width:0.0558099"
+         x="198.69481"
+         y="49.262947">отправляет сообщения с помощью </tspan><tspan
+         sodipodi:role="line"
+         style="stroke-width:0.0558099"
+         x="198.69481"
+         y="50.100098"
+         id="tspan20742">полученного при содании (__init__) бота</tspan><tspan
+         sodipodi:role="line"
+         style="stroke-width:0.0558099"
+         x="198.69481"
+         y="50.937248"
+         id="tspan20738">Принимает текст сообщения, имя пользователя, chat_id, </tspan><tspan
+         sodipodi:role="line"
+         style="stroke-width:0.0558099"
+         x="198.69481"
+         y="51.774403"
+         id="tspan20740">двумерный массив хранящий клавиатуру</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:0.748608px;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.0623838;stroke-opacity:1"
+       x="145.14111"
+       y="53.790585"
+       id="text20852"
+       transform="scale(0.64012044,1.562206)"><tspan
+         sodipodi:role="line"
+         id="tspan20850"
+         style="stroke-width:0.0623838"
+         x="145.14111"
+         y="53.790585">Принимает сообщения</tspan><tspan
+         sodipodi:role="line"
+         style="stroke-width:0.0623838"
+         x="145.14111"
+         y="54.726345"
+         id="tspan22434">ставит его в очередь</tspan><tspan
+         sodipodi:role="line"
+         style="stroke-width:0.0623838"
+         x="145.14111"
+         y="55.662106"
+         id="tspan22440">очередь - массив</tspan><tspan
+         sodipodi:role="line"
+         style="stroke-width:0.0623838"
+         x="145.14111"
+         y="56.597866"
+         id="tspan22442">Каждые n секунд отправляет до 30 сообщений</tspan><tspan
+         sodipodi:role="line"
+         style="stroke-width:0.0623838"
+         x="145.14111"
+         y="57.533623"
+         id="tspan22444">Из массива берет срез первых 30 сообщений</tspan><tspan
+         sodipodi:role="line"
+         style="stroke-width:0.0623838"
+         x="145.14111"
+         y="58.469383"
+         id="tspan22446">если меньше отправляет все</tspan></text>
+    <rect
+       style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.122762;stroke-opacity:1"
+       id="rect5739"
+       width="12.406186"
+       height="9.0319853"
+       x="78.572952"
+       y="51.615803" />
+    <text
+       xml:space="preserve"
+       style="font-size:1.14583px;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.0954855;stroke-opacity:1"
+       x="97.776146"
+       y="41.25317"
+       id="text5743"
+       transform="scale(0.80687288,1.2393526)"><tspan
+         sodipodi:role="line"
+         id="tspan5741"
+         style="stroke-width:0.0954855"
+         x="97.776146"
+         y="41.25317">extended_database.py</tspan></text>
+    <text
+       xml:space="preserve"
+       transform="scale(0.26458333)"
+       id="text5847"
+       style="white-space:pre;shape-inside:url(#rect5849);display:inline;fill:#ffffff;stroke:#000000;stroke-width:1.00157;stroke-linecap:round;stroke-linejoin:round;paint-order:stroke fill markers" />
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.259471;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1;marker-start:url(#TriangleStart)"
+       d="m 84.783532,50.737271 0.01655,-8.388421"
+       id="path5928"
+       inkscape:connector-type="polyline"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.255702px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-start:url(#marker14566)"
+       d="m 88.235725,43.218169 0.15103,8.457284"
+       id="path5996"
+       inkscape:connector-type="polyline"
+       inkscape:connector-curvature="0" />
+    <text
+       xml:space="preserve"
+       style="font-size:3.175px;fill:#ffffff;stroke:#000000;stroke-width:0.264999;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;paint-order:stroke fill markers"
+       x="79.677605"
+       y="53.004635"
+       id="text6140"><tspan
+         sodipodi:role="line"
+         id="tspan6138"
+         style="stroke-width:0.265"
+         x="79.677605"
+         y="53.004635" /></text>
+    <text
+       xml:space="preserve"
+       style="font-size:1.25854px;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.104878;stroke-opacity:1"
+       x="127.97234"
+       y="33.906105"
+       id="text6144"
+       transform="scale(0.61718955,1.6202478)"><tspan
+         sodipodi:role="line"
+         id="tspan6142"
+         style="stroke-width:0.104878"
+         x="127.97234"
+         y="33.906105">Выполняет более сложные</tspan><tspan
+         sodipodi:role="line"
+         style="stroke-width:0.104878"
+         x="127.97234"
+         y="35.479279"
+         id="tspan6146">действия с бд</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:0.549404px;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.0457835;stroke-opacity:1"
+       x="115.59307"
+       y="48.622391"
+       id="text11666"
+       transform="scale(0.62396255,1.6026603)"><tspan
+         sodipodi:role="line"
+         style="stroke-width:0.0457835"
+         x="115.59307"
+         y="48.622391"
+         id="tspan11670">Принимает пользовательские сообщения</tspan><tspan
+         sodipodi:role="line"
+         style="stroke-width:0.0457835"
+         x="115.59307"
+         y="49.309147"
+         id="tspan11676">Выполняет действия на сообщения, нажатые клавиши,</tspan><tspan
+         sodipodi:role="line"
+         style="stroke-width:0.0457835"
+         x="115.59307"
+         y="49.995899"
+         id="tspan11678">отправляет соответствующие запросы на изменение данных</tspan><tspan
+         sodipodi:role="line"
+         style="stroke-width:0.0457835"
+         x="115.59307"
+         y="50.682655"
+         id="tspan11680">Передает соответствующие пользовательскому вводу сообщения</tspan><tspan
+         sodipodi:role="line"
+         style="stroke-width:0.0457835"
+         x="115.59307"
+         y="51.369411"
+         id="tspan11684">в очередь</tspan><tspan
+         sodipodi:role="line"
+         style="stroke-width:0.0457835"
+         x="115.59307"
+         y="52.056168"
+         id="tspan11688">Запрашивает инструкции для вывода их пльзователю</tspan></text>
+  </g>
+</svg>

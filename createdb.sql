@@ -19,18 +19,42 @@ create table questions(
 	foreign key (user_name) references users(user_name)
 );
 
+create table keyboards(
+	id_keyboard integer primary key autoincrement,
+	keyboard_name varchar(255) UNIQUE,
+	button varchar(255)
+);
 
-/*insert into admins(user_name)
+create table instructions(
+	id_instruction integer primary key autoincrement,
+	instruction_name varchar(255) UNIQUE,
+	docx blob,
+	html blob
+);
+
+create table contacts(
+	id_contact integer primary key autoincrement,
+	contact varchar(255)
+);
+
+insert into admins(user_name)
 values
-	("Admin_name");
-*/
+	("AlexanderKomyakov");
 
 insert into users(user_name, first_name, last_name, phone_number)
 values
 	("User_name", "First_name", "Last_name", "8-888-888-88-88"),
+	("Ivan", "First_name", "Last_name", "8-888-888-88-88"),
+	("Ilia", "First_name", "Last_name", "8-888-888-88-88");
 
 
 insert into questions(question, user_name)
 values
 	("Принтер не печатает", "Ivan"),
 	("Тормозит компьютер", "Ilia");
+
+insert into keyboards(keyboard_name, button)
+values
+	("admin_menu", "🤷 Юзеры'🤷 Добавить'🤷 Удалить;❓ Вопросы'❓ Удалить;🔔 Рассылка'🔕 Отключить"),
+	("instruction", "Подключение к удаленному рабочему столу'OpenVPN, подключение к файловому серверу;"),
+	("user_menu", "✉️ Обращение в IT отдел'📖 Инструкции;📞 Контакты'♥️ Пожелания");
