@@ -41,6 +41,10 @@ insert into admins(user_name)
 values
 	("AlexanderKomyakov");
 
+insert into contacts(contact)
+values
+	("Контакты");
+
 insert into users(user_name, first_name, last_name, phone_number)
 values
 	("User_name", "First_name", "Last_name", "8-888-888-88-88"),
@@ -56,5 +60,8 @@ values
 insert into keyboards(keyboard_name, button)
 values
 	("admin_menu", "🤷 Юзеры'🤷 Добавить'🤷 Удалить;❓ Вопросы'❓ Удалить;🔔 Рассылка'🔕 Отключить"),
-	("instruction", "Подключение к удаленному рабочему столу'OpenVPN, подключение к файловому серверу;"),
+	("instruction", "Инструкция"),
 	("user_menu", "✉️ Обращение в IT отдел'📖 Инструкции;📞 Контакты'♥️ Пожелания");
+
+values
+	("Инструкция", readfile('instruction/tutorialOpenVPN.html'), readfile("instruction/Инструкция_по_удаленному_подключению_OpenVPN.docx"));
